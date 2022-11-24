@@ -1,0 +1,124 @@
+/* body {
+    background-color:lightgrey;
+    text-align: center;
+} */
+
+button {
+    /* background-color: rgba(0,0,0,0); */
+    outline: none;
+}
+.bmih2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.bmibtn {
+    margin-bottom: 10px;
+    margin-left: 80px;
+    display: block;
+    border:2px solid black;
+
+
+}
+
+.b,.a{
+    width: 385px;
+    padding: 5px 14px;
+    border: 1px solid #201f1d;
+    margin-bottom: 10px;
+    background-color: rgba(0,0,0,.4);
+    outline: none;
+    color: #fff;
+    font-size: 14px;
+}
+
+.b:focus,.a:focus {
+    border: 2px solid rgba(0,0,0,.4);
+    background-color: rgb(60,60,60);
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    color: #000;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.4);
+}
+
+form p {
+    margin-bottom: 5px;
+}
+
+form p:nth-child(1){
+    margin-top: 0;
+}
+
+.bmipanel {
+    margin-top: 20px;
+    float: none;
+}
+.bmicolbox
+{
+    background-color: lightblue;
+}
+@media (min-width: 768px) {
+    .bmipanel {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 1024px) {
+    .bmipanel {
+        width: 30%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+.bmi
+{
+    margin-top:50px;
+}
+.fomi
+{
+   
+    background-color: lemonchiffon;
+    width:120% ;
+    
+}
+.padp1
+{
+   padding: 20px;
+}
+.padp2
+{
+    padding: 20px;
+}
+.a
+{
+    margin-left: 20px;
+    width: 340px;
+}
+.b
+{
+    text-align: center;
+    margin-left: 20px;
+    width: 340px;
+}
+.bmitext-center
+{
+    text-align: center;
+    padding-top: 10px;
+}
+.bmibtn:hover
+{
+    background-color:honeydew;
+}
+.paid1
+{
+ text-align: center;
+}
+.paid2
+{
+    text-align: center;
+}

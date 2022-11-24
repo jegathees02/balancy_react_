@@ -1,0 +1,58 @@
+/* body
+{
+    background-image: url("../projpics/pexels-pixabay-54455.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size:1.3rem;
+} */
+.Dinner
+{
+    margin-left: 350px;
+    color:aquamarine;
+    float:left;
+}
+.dinnerlabel
+{
+    width:400px ;
+}
+.dnbox
+{
+    margin-left: 40px;
+   float: left;
+}
+.dfgt
+{ 
+    color: aqua;
+    margin-top: 200px;
+    margin-left:900px;
+   
+    
+}
+.raddin
+{
+    margin-left: 9px;
+}
+.butdin
+{
+     border: 2px solid black;
+     background-color:lightcoral;
+    width: 130px;
+    border-radius: 5px;
+}
+.butdin:hover
+{
+ background-color: bisque;
+ color: black;
+}
+.dinnerhead2
+{
+    margin-left: 100px;
+}
+
+#bd1{
+    background-image: url("https://res.cloudinary.com/dkmm9khbp/image/upload/v1669099156/balancy_final/pexels-pixabay-54455_obixun.jpg");
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100vh;
+}

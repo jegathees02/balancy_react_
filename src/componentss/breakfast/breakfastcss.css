@@ -1,0 +1,59 @@
+/* body
+{
+    background-image: url("../projpics/bf5jpg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:gainsboro;
+    
+} */
+.bflabel
+{
+    font-size: 20px;
+    padding-right: 15px;  
+}
+.bfBF
+{
+    margin-left: 450px;
+    float:left;
+}
+.bfgt
+{
+    float:left;
+    margin-left: 150px;
+}
+.bfbox
+{
+    margin-left: 40px;
+    float:left;
+    /* margin-bottom: px; */
+    /* padding-bottom: 10px; */
+}
+.radbre
+{
+    margin-left: 9px;;
+}
+.bfimg
+{
+    width: 100%;
+    height: 800px;
+    position: fixed;
+}
+
+
+.br1{
+    background-image: url("https://res.cloudinary.com/dkmm9khbp/image/upload/v1669099107/balancy_final/Breakfast_mjs5rd.jpg");
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.bflabel
+{
+    color: ghostwhite;
+}
+.bflabel1
+{
+    color: ghostwhite;
+    margin-left: 100px;
+    font-size: large;
+}

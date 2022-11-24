@@ -1,0 +1,107 @@
+Signin{
+    background-image: url("https://res.cloudinary.com/dkmm9khbp/image/upload/v1669099105/balancy_final/bgs_f7kzdp.jpg");
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.signinh1{
+    text-align: center;
+    padding-left: 30%;
+    font-style: unset;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 79px;
+    -webkit-text-fill-color: aliceblue;
+    text-transform: uppercase;
+    color: aliceblue;
+}
+.signinp{
+    text-align: center;
+    padding-left:25%;
+    font-size: larger;
+    color: white;
+    padding-top: 40px;
+    
+    text-emphasis-style: inherit;
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left:20%;
+}
+.signini[type=text],.signini[type=password]{
+    width:60%;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    display:inline-block;
+    /* border:1px solid #ccc; */
+    border-radius: 4px;
+    box-sizing:border-box;
+    margin-left:40%;
+    margin-right:30%;
+}
+input[type=button],button{
+    box-sizing: border-box;
+    width: 60%;
+    background-color:gray;
+    color:rgb(19, 18, 17);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: darkblue;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left:40%;
+}
+input[type=button]:hover,button:hover{
+    background-color: rgb(41, 165, 87);
+}
+.signind{
+    border-radius: 15px 2px;
+    /* background-color: rgb(5, 5, 6); */
+    padding:10px;
+    position: fixed;
+    margin-left: 40%;
+    
+    /* margin-right: 15%; */
+    
+}
+.signinl{
+    /* padding:10px; */
+    margin-left: 360px;
+    color: whitesmoke;
+}
+.signincli{
+    text-decoration: none;
+    color:rgb(116, 222, 87);
+}
+.signinh3
+{
+    text-align: center;
+    color:ghostwhite;
+    float: left;
+    margin-top:10px ;
+    margin-left:345px;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+.signinlo{
+    text-decoration: none;
+    color:black;
+    border:3px;
+    width:30px;
+}
+.butsignin
+{
+    margin-left: 500px;
+    border:2px solid black;
+    background-color:lightcyan;
+    
+    width:300px;
+}
+.sing1
+{
+    background-image:url('https://res.cloudinary.com/dkmm9khbp/image/upload/v1669099105/balancy_final/bgs_f7kzdp.jpg');
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
